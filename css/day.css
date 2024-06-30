@@ -1,0 +1,17 @@
+.head{
+    color: coral;
+    font: size 27px;
+    font-family: sans-serif;
+    background-color:bisque;
+}
+.desc{
+    color: crimson;
+    font-weight: 500;
+    text-decoration:underline;
+    text-align: center;
+}
+.img{
+    background-image:url("../assets/apple.jpg");
+    height: 100px;
+    background-size: 1%;
+}
